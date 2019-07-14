@@ -1,2 +1,2 @@
-a Evolutionary-strategy algo. for optimization 
+a simple Evolutionary-strategy algo. for optimization 
 
